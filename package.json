@@ -4,6 +4,7 @@
   "description": "A Node.js Express backend with MongoDB, JWT authentication, and file upload support.",
   "main": "src/server.js",
   "scripts": {
+
     "start": "node src/server.js",
     "dev": "nodemon src/server.js"
   },
